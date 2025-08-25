@@ -4,7 +4,6 @@ fn main(){
 
     for i in it {
         println!("{}", i);
-        //hn kr le
-        //ok
+        
     } 
 } 
